@@ -1,0 +1,28 @@
+Story: The Forgotten Prototype
+
+The vehicle arrived on a flatbed without markings, plates, or paperwork — just an aging chassis and a sealed onboard network still quietly alive beneath the dust.
+Its development history has been lost, and whatever company built it never documented anything publicly.
+But one thing is certain: this car did exist, and the world once knew who created it and where it came from.
+
+Your mission is simple in words, but not in execution:
+uncover the car’s origin — determine the country it was built in, and the manufacturer who made it.
+
+Inside the glovebox, under brittle wiring and decayed foam, a technician’s old notebook was found.
+Most pages are empty, torn, or stained beyond recognition.
+But near the back, a few preserved lines remain — fragments of diagnostic attempts, scribbled numbers, mismatched sequences, small pairs of values that seem to correspond to something.
+They are not labeled, and they explain nothing.
+But patterns lurk in them, waiting to be recognized by someone who knows how to listen.
+
+The onboard network itself is cautious.
+It does not immediately reveal its structure or speak freely.
+It expects the right approach, the right state, the right sequence of actions before sharing anything meaningful.
+Modules remain quiet until they trust the one asking.
+
+Somewhere inside that hidden network lies a single identifier that carries the machine’s past — the key to learning who built it and where it was made.
+Nothing tells you where that information is stored.
+Nothing tells you how to reach it.
+Only an aging access point and a cryptic logbook remain to guide you.
+
+Follow the signals.
+Interpret the patterns.
+And let the network tell its story… once it believes you deserve to hear it.

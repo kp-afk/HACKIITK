@@ -1,0 +1,10 @@
+python-can==4.3.0
+pyserial==3.5
+
+# For JSON, threading, logging, socket — these are standard libs, no install needed
+# But we add optional helpers used in some environments:
+psutil==5.9.8
+
+# If your system or docker image needs netlink tooling for vcan setup in Python:
+pyroute2==0.7.11
+
